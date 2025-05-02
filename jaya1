@@ -1,6 +1,6 @@
 public class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("Version_1_java");
+        System.out.println("Version_2_java");
     }
 }
 
